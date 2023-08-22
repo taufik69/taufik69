@@ -2,15 +2,15 @@
 <img src="https://i.ibb.co/1Zfs15X/signature.jpg" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">🚀 I'm Taufik islam, A Full-Time MERN Web Developer 👨‍💻. I strive to create dynamic , original, and impactful User Experiences & web application 🚀
+### <div align="center">🚀 I'm Taufik Islam, A Full-Time MERN Stack Web Developer 👨‍💻. I strive to create dynamic, original, and impactful User Experiences & web applications 🚀
 
 </div>
 
 - 🔭 I’m currently working on MERN stack developer as a Creative it institute .🤙
 
-- 🌱 I’m currently learning DEVOPS technologies.📗
+- 🌱 I’m currently learning DevOps technologies.📗
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to the MERN stack and related technologies
 
 - ⚡ Fun fact: I use tabs over spaces
 
