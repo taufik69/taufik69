@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/1Zfs15X/signature.jpg" align="center" style="width: 100%" />
+<img src="[https://i.ibb.co/1Zfs15X/signature.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3Ix65MrzooYqRey-Vu4PIQ&ust=1707047480536000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjw_ceNj4QDFQAAAAAdAAAAABAE)" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">🚀 I'm Taufik Islam, A  MERN Stack Web Developer 👨‍💻. I strive to create dynamic, original, and impactful User Experiences & web applicaions 🚀
