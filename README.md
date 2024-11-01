@@ -1,6 +1,5 @@
 <div align="center">
-<!--  <img src="https://s13.gifyu.com/images/SCuzx.gif" alt="js" border="2" /> -->
-  <img src="[https://s13.gifyu.com/images/SCuzx.gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)" alt="js" border="2" />
+ <img src="https://s13.gifyu.com/images/SCuzx.gif" alt="js" border="2" />
 <!-- <img src="https://i.ibb.co/PmS7gb0/js.gif" align="center" style="width: 200%" /> -->
 </div>
 
