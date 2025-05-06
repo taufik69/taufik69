@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://i.ibb.co/PmS7gb0/js.gif" align="center" style="width:100rem" /> 
+ <img src="https://i.ibb.co/PmS7gb0/js.gif" align="center" style="width:50rem" /> 
 </div>
 
 ### <div align="center">🚀 I'm Taufik Islam, A  MERN Stack Web Developer 👨‍💻. I strive to create dynamic, original, and impactful User Experiences & web applications 🚀
